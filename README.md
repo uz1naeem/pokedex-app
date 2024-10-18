@@ -39,8 +39,8 @@ Make sure you have a code editor (such as Visual Studio Code) and a web browser 
 
 ### Installation Steps
 
-1. **Clone the repository:**
-2. **Navigate to the project directory:**
+1. **Clone the repository.**
+2. **Navigate to the project directory.**
 3. **Open the project in your code editor or simply double-click `index.html` to view the project in a browser.**
 
 ## Future Enhancements
